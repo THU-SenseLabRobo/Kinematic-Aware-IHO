@@ -146,6 +146,6 @@ main.m
 
 本项目基于 **CC BY-NC-SA 4.0** 协议开源。
 
-© 2026 Yule Cai
+© 2026 Yule Cai , Chunhong Yuan , SenseLab
 
 
