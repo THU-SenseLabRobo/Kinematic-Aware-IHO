@@ -121,7 +121,7 @@ main.m
 
 This project is licensed under the **CC BY-NC-SA 4.0 License**.
 
-© 2026 Yule Cai
+© 2026 Yule Cai , Chunhong Yuan , SenseLab
 
 
 
